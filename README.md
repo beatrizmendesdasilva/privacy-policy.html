@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1>Privacy Policy</h1>
-  <p><strong>Last Updated:</strong> [Today's Date]</p>
+  <p><strong>Last Updated:</strong> [18th june 2025]</p>
   
   <h2>1. Data Collection</h2>
   <p>This app collects publicly available Instagram posts (captions, likes, comments) from art museum accounts for academic research. No private user data is accessed.</p>
