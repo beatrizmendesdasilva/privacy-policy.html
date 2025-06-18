@@ -18,6 +18,6 @@
   <p>Data is stored locally and not shared with third parties.</p>
   
   <h2>4. Contact</h2>
-  <p>For questions, contact: [Your Email]</p>
+  <p>For questions, contact: [20231373@novaims.unl.pt]</p>
 </body>
 </html>
